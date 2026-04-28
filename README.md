@@ -40,6 +40,7 @@ console.log(`Current Balance: ${balance}`);
 ## Documentation
 
 - [SDK Overview](docs/sdk-overview.md): Architecture and module breakdown.
+- [Wallet Integration Guide](docs/wallet-integration.md): Freighter, Albedo, private key, and custom adapters.
 - [Usage Guide](docs/usage-guide.md): Detailed examples and best practices.
 
 ## Contributing
